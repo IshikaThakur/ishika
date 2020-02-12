@@ -1,0 +1,106 @@
+.header {
+    color:#21C6A3;
+    font-size: 30px;
+}
+.Product
+{
+    background-color: #21C6A3;
+}
+
+nav1
+{
+    color: #21C6A3;
+    float: left;
+    background-color: white;
+    display: block;
+    margin-top:10px;
+    padding: 10px;
+}
+nav2
+{
+    color: #21C6A3;
+    float: right;
+}
+
+#form{
+   border: 0.5px solid lightgray;
+    border-radius: 4px;
+    margin-left: 500px;
+    height:510px;
+    width: 30%;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+h2
+{
+    color: white;
+    background-color: gray ;
+    font-size: 20px;
+    padding :10px;
+    margin-left: -5px;
+    margin-right: -2.5px;
+    margin-top: -3px;
+}
+.Systems
+{
+    background: #21C6A3;
+}
+.Product
+{
+    background : #21C6A3;
+}
+.Security
+{
+    background : #21C6A3;
+}
+div.size
+{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.title
+{
+    border: 2px solid grey;
+    border-radius: 3px;
+    width: 100%;
+}
+
+hr
+{
+
+    background-color: gray ;
+    padding:10px
+
+}
+.button
+{
+    float: right;
+}
+.link
+{
+    float:right;
+}
+.hr1
+{
+    clear:both;
+}
+select
+{
+    box-sizing: border-box;
+    width:100%
+}
+input[type=submit]{
+    width: 15%;
+    background-color: #3CBC8D;
+    color: white;
+    padding: 10px 15px;
+}
+#o{
+    height: 35px;
+    padding: 8px 0px;
+    margin: auto;
+    width: 100%;
+    background-color: #d3d3d3;
+}

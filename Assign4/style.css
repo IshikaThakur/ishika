@@ -1,0 +1,108 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: #404040;
+}
+h1
+{
+    color: white;
+    padding-left: 70px;
+    padding-bottom: 30px;
+}
+
+.head
+{
+    background-color: #505050;
+    margin: 0px 30px 0px 30px;
+    height: 100px;
+}
+.navigation
+{
+    background-color: black;
+    height: 25px;
+    padding-top: 8px;
+    margin: 0px 45px 0px 70px;
+}
+nav
+{
+    display: inline-block;
+    color: white;
+    margin-right: 50px;
+    padding-left: 20px;
+}
+.middle
+{
+    background-color: white;
+    height: 600px;
+    margin: 0px 30px 0px 30px;
+    padding: 20px;
+}
+.sec1
+{
+    background-color: #404040;
+    color: white;
+    height: 200px;
+    margin: 30px 30px 30px 45px;
+}
+.sec2
+{
+    margin: 10px 30px 30px 45px;
+    background-color: lightgray;
+    color: #505050;
+    padding: 5px;
+}
+.sec3
+{
+    margin: 10px 30px 30px 45px;
+    color: #505050;
+}
+hr
+{
+    margin: 0px 40px 0px 45px;
+}
+.item
+{
+    height: 230px;
+    width: 210px;
+    background-color: #505050;
+    display: inline-block;
+    margin: 20px 35px 30px 45px;
+}
+.part1
+{
+    height: 210px;
+    width: 210px;
+}
+.part2
+{
+    height: 20px;
+    width: 210px;
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+}
+
+.footer
+{
+    background-color: #505050;
+    margin: 0px 30px 0px 30px;
+    height: 30px;
+}
+.left
+{
+    color: white;
+    float: left;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.right
+{
+    color: white;
+    float: right;
+    padding-right: 30px;
+    padding-top: 10px;
+}
